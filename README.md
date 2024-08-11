@@ -6,6 +6,8 @@
 - Auto upgrade fuel tank
 - Auto upgrade turbo charge
 - Support multi account
+- Auto retrive query
+- Auto replace dead query to active query
 - Register OKX Racer [here](https://t.me/OKX_official_bot/OKX_Racer?startapp=linkCode_88910038)
 
 # Additional info:
