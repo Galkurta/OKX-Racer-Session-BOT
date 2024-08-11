@@ -32,6 +32,12 @@ npm install
 - VPN: [Urban VPN](https://chromewebstore.google.com/detail/urban-vpn-proxy/eppiocemhmnlbhjplcgkofciiegomcon)
 - Bypass header: [Ignore X-Frame headers](https://chromewebstore.google.com/detail/ignore-x-frame-headers/gleekbfjekiniecknbkamfmkohkpodhe)
 
+### Create session folder
+
+``
+mkdir session
+``
+
 ### Edit .env
 
 ``
