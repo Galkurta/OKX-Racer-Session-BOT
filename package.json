@@ -1,0 +1,17 @@
+{
+  "name": "okx-session-bot",
+  "version": "1.0.0",
+  "main": "main.js",
+  "keywords": ["OKX Racer"],
+  "author": "Galkurta",
+  "license": "ISC",
+  "description": "OKX Racer BOT with session",
+  "dependencies": {
+    "axios": "^1.7.3",
+    "colors": "^1.4.0",
+    "dotenv": "^16.4.5",
+    "glob": "^11.0.0",
+    "input": "^1.0.1",
+    "telegram": "^2.23.10"
+  }
+}
