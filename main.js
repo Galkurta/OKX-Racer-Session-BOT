@@ -60,7 +60,7 @@ class OKX {
       "Content-Type": "application/json",
       Origin: "https://www.okx.com",
       Referer:
-        "https://www.okx.com/mini-app/racer?tgWebAppStartParam=linkCode_31347852",
+        "https://www.okx.com/mini-app/racer?tgWebAppStartParam=linkCode_88910038",
       "Sec-Ch-Ua":
         '"Not/A)Brand";v="8", "Chromium";v="126", "Microsoft Edge";v="126"',
       "Sec-Ch-Ua-Mobile": "?0",
