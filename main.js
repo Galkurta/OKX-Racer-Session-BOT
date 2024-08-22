@@ -602,7 +602,7 @@ Last Activity: ${
     }
 
 📊 Overall Statistics:
-Total Accounts Processed: ${this.stats.totalAccounts}
+Total Bet: ${this.stats.totalAccounts}
 Wins: ${this.stats.winsCount} | Losses: ${this.stats.lossesCount}
 Win Rate: ${winRate}%
 Total Profit: ${this.stats.totalProfit} points
